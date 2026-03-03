@@ -1,4 +1,4 @@
-## Hi there my name is Sergio 👋
+## Hi there my name is Sergio con desktop 👋
 
 <!--
 **SergioAjoCanovas/SergioAjoCanovas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
